@@ -1,5 +1,12 @@
 # hpc
 
+```
+sudo apt install build-essential
+
+gcc file_name.c -o filename
+
+./filename
+```
 
 ```
 sudo apt install mpich
